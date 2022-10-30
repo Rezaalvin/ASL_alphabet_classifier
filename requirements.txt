@@ -42,7 +42,7 @@ mkl-random
 networkx==2.2
 numpy==1.15.1
 olefile==0.46
-opencv-python==4.1.0.25
+opencv-python
 pandas==0.23.0
 parso==0.3.2
 patsy==0.5.1
